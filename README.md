@@ -1,4 +1,5 @@
 leo_site
 ========
 
-this a a website made by drupal
+this a website made by drupal
+the main theme is the zen
