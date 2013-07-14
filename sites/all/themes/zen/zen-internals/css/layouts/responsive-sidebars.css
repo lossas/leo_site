@@ -207,12 +207,14 @@
     width: 80%;
     margin-left: 20%;
     margin-right: -100%;
+    background-color: #F7EAD2;
   }
   .sidebar-first .region-sidebar-first { /* Span 1 column, starting in 1st column from left. */
     float: left;
     width: 20%;
     margin-left: 0%;
     margin-right: -20%;
+    background-color: #E6AD45;
   }
 
   /*
