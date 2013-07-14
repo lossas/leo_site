@@ -15,6 +15,9 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(../images/clockwork-orange.jpg);
+  background-size: 108% 265%;
+  background-repeat: no-repeat;
 }
 
 #page {
