@@ -15,9 +15,10 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(../images/a_clockwork_orange_wallpaper_2_by_gsgill37-d4s189m.jpg);
-  background-size: auto;
-  background-repeat: repeat;
+  background: center center fixed;
+  background-image: url(../images/background.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 #page {

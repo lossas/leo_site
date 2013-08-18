@@ -221,16 +221,20 @@ body {
  */
 
 a:link {
+color: #16738F;
 }
 
 a:visited {
+color: #16738F;
 }
 
 a:hover,
 a:focus {
+color: #16738F;
 }
 
 a:active {
+color: #16738F;
 }
 
 /*
