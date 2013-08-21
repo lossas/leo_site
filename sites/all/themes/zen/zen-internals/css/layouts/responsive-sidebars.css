@@ -252,8 +252,11 @@
   }
   .two-sidebars .region-sidebar-second { /* Span 1 column, starting in 5th column from left. */
     float: left;
-    width: 20%;
+    width: 24%;
     margin-left: 80%;
     margin-right: -100%;
+    position: absolute;
+    left: -99px;
+    top: 6px;
   }
 }
